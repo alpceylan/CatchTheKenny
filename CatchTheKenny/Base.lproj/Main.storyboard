@@ -129,7 +129,7 @@
                         <outlet property="kenny2" destination="Ep2-7b-fkV" id="k5J-yy-2fS"/>
                         <outlet property="kenny3" destination="ThL-1p-kFV" id="7Sr-tp-FIF"/>
                         <outlet property="kenny4" destination="5eE-JN-ger" id="fnp-cO-JjE"/>
-                        <outlet property="kenny5" destination="7Kx-SV-z15" id="Q5d-Yh-JGi"/>
+                        <outlet property="kenny5" destination="oAE-s7-Qvl" id="J8L-hP-nKT"/>
                         <outlet property="kenny6" destination="7Kx-SV-z15" id="Elw-bP-QqP"/>
                         <outlet property="kenny7" destination="Wiu-33-pg4" id="Ntd-lM-Umo"/>
                         <outlet property="kenny8" destination="Ak6-e1-7bs" id="9WR-0a-4gR"/>
